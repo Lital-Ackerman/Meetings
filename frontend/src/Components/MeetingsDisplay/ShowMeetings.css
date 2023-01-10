@@ -1,0 +1,28 @@
+.showDiv{
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.showDiv h2{
+    margin-top: 50px;
+    font-weight: bold;
+
+}
+
+select {
+    height: 30px;
+    width: 120px
+}
+
+.meetingsDiv {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.form-select{
+    width: 300px;
+    height:min-content;
+}

@@ -1,0 +1,9 @@
+.singleMeetingDiv{
+    border: 5px solid ;
+    width:-moz-fit-content;
+    width:fit-content;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgba(190, 149, 149, 0.6);
+    border-radius: 20px;
+}

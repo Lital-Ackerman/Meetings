@@ -1,0 +1,23 @@
+.addDiv{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.addDiv p{
+    color: red;
+    font-weight: bold;
+}
+
+/* h1{
+    color: purple;
+} */
+
+.form-control{
+    width: 300px;
+}
+
+.form-select{
+    width: 300px;
+    height:min-content;
+
+}

@@ -1,0 +1,16 @@
+.App>nav{
+  /* color: blue; */
+  font: 25px bold blue;
+  margin-bottom: 50px;
+}
+
+h1{
+  color: rgb(143, 68, 81);
+}
+
+.active {
+  font-weight: bold;
+}
+
+
+
